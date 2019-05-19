@@ -63,12 +63,12 @@
     <Compile Include="Assets\Camera_follow.cs" />
     <Compile Include="Assets\camera_movement.cs" />
     <Compile Include="Assets\Enemy_movement.cs" />
-    <Compile Include="Assets\Enemy_movement1.cs" />
     <Compile Include="Assets\Movement_1.cs" />
     <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshLink.cs" />
     <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshModifier.cs" />
     <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshModifierVolume.cs" />
     <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshSurface.cs" />
+    <Compile Include="Assets\Player_attach.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/forev/Documents/GitHub/MindIntoMatterII/unity_test/unity_test/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
